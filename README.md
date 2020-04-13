@@ -37,5 +37,5 @@ D_woman: 이미지가 여자인지 판단<br>
 9. 구한 Loss들을 바탕으로 G, F, D_man, D_woman을 Optimizer로 학습시킨다.
 ### 학습 결과
 &nbsp;위와 같은 과정으로 200에폭을 학습시킨 결과 다음과 같은 결과물을 얻었다.
-<img src="https://cdn.discordapp.com/attachments/698770951071989841/698842619941224448/EvgHyzrup9ru6zrsq77uK6llIWOYsGCBQsWXH2aaMGCBQsW7AEWZ7BgwYIFCxZnsGDBggULFmewYMGCBQtYnMGCBQsWLGBxBgsWL.png" title="여자2남자 학습 결과" alt="여자2남자 학습 결과"></img><br>
-<img src="https://cdn.discordapp.com/attachments/698770951071989841/698843436404703283/mg5StwW2ckAAAAASUVORK5CYII.png" title="남자2여자 학습 결과" alt="남자2여자 학습 결과"></img><br>
+<img src="https://cdn.discordapp.com/attachments/698770951071989841/698842619941224448/EvgHyzrup9ru6zrsq77uK6llIWOYsGCBQsWXH2aaMGCBQsW7AEWZ7BgwYIFCxZnsGDBggULFmewYMGCBQtYnMGCBQsWLGBxBgsWL.png" title="여자2남자 학습 결과" alt="여자2남자 학습 결과" width="75%" height="75%"></img><br>
+<img src="https://cdn.discordapp.com/attachments/698770951071989841/698843436404703283/mg5StwW2ckAAAAASUVORK5CYII.png" title="남자2여자 학습 결과" alt="남자2여자 학습 결과" width="75%" height="75%"></img><br>
