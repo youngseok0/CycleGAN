@@ -19,7 +19,7 @@ Resnet에 대한것은 http://blog.naver.com/laonple/220761052425 를 참고하�
 <img src="https://cdn.discordapp.com/attachments/698770951071989841/698839530005987359/2.png" title="이미지 출처: https://brstar96.github.io/mldlstudy/what-is-patchgan-D/" alt="PatchGAN" width="50%" height="50%"></img><br>
 PatchGAN에 관해 더 자세한 정보를 보고싶다면 https://brstar96.github.io/mldlstudy/what-is-patchgan-D/ 를 참고하면 좋을 것 같다.
 ### 학습 과정
-#### 전제
+#### 정의
 G: 남자 이미지를 여자 이미지로 변조시키는 Generator<br>
 F: 여자 이미지를 남자 이미지로 변조시키는 Generator<br>
 D_man: 이미지가 남자인지 판단<br>
